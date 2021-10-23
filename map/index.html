@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" href="/favicon.png" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		
+
+		
+
+		<link rel="modulepreload" href="/_app/start-9f6c384d.js">
+		<link rel="modulepreload" href="/_app/chunks/vendor-5bb5fb32.js">
+		<link rel="modulepreload" href="/_app/chunks/paths-28a87002.js">
+		<link rel="modulepreload" href="/_app/pages/__layout.svelte-5f94f1c6.js">
+		<link rel="modulepreload" href="/_app/pages/map.svelte-4d722251.js">
+		<link rel="stylesheet" href="/_app/assets/start-464e9d0a.css">
+		<link rel="stylesheet" href="/_app/assets/pages/__layout.svelte-985b33a5.css">
+
+		<script type="module">
+			import { start } from "/_app/start-9f6c384d.js";
+			start({
+				target: document.querySelector("#svelte"),
+				paths: {"base":"","assets":""},
+				session: {},
+				host: location.host,
+				route: true,
+				spa: false,
+				trailing_slash: "never",
+				hydrate: {
+					status: 200,
+					error: null,
+					nodes: [
+						import("/_app/pages/__layout.svelte-5f94f1c6.js"),
+						import("/_app/pages/map.svelte-4d722251.js")
+					],
+					page: {
+						host: location.host, // TODO this is redundant
+						path: "\u002Fmap",
+						query: new URLSearchParams(""),
+						params: {}
+					}
+				}
+			});
+		</script>
+	</head>
+	<body>
+		<div id="svelte">
+
+
+<div id="screen" class="flex flex-col min-h-screen not-front"><header id="header" class="lg:sticky w-full relative z-10"><div class="ctr flex svelte-1dq5b3m"><h1 class="inline-block">Desert Rose Memorial Garden</h1>
+    <div class="flex-grow"></div>
+    <a href="/" class="menulink svelte-1dq5b3m">Home</a>
+    <a href="/sites" class="menulink svelte-1dq5b3m">Memorials</a></div></header>
+
+<div id="screen" class="flex-grow"><div class="ctr svelte-1dq5b3m"></div></div>
+
+<footer id="footer" class="flex justify-center text-sm text-white bg-gray-600"><div class="ctr flex svelte-1dq5b3m"><div class="text-xs md:text-sm inline-block leading-none">© 2021 Desert Rose Bahá’í Institute · 6056 S. Alai Drive, Eloy, Az 85131
+    </div></div></footer>
+
+</div>
+
+
+
+			
+		</div>
+	</body>
+</html>
