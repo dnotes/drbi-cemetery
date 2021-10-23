@@ -1,4 +1,5 @@
 import preprocess from "svelte-preprocess";
+import adapter from "@sveltejs/adapter-static"
 
 import { plugin as mdPlugin } from "vite-plugin-markdown"
 import mdAttrs from "markdown-it-attrs"
@@ -26,7 +27,8 @@ const config = {
       plugins: [
         md,
       ]
-    }
+    },
+    adapter: adapter(),
   },
 };
 
