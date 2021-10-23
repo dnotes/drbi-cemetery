@@ -1,5 +1,7 @@
 <script lang="ts" context="module">
   import { base } from '$app/paths'
+  export const hydrate=false
+  export const router=false
   export async function load({ fetch, page }) {
     const sites = await fetch(`${base}/sites.json`).then(r => r.json())
     const site = sites.find(s => s.slug === page.params.slug)
@@ -25,7 +27,7 @@ import type { Gravesite } from "src/global";
   <h2>{site.name}</h2>
 
   {#if site.image}
-    <Image image="/sites/{site.image}" alt="{site.name}" class="max-w-2xl mx-auto" />
+    <Image image="/sites/{site.image}" alt="{site.name}" class="w-2xl mx-auto" />
   {/if}
 
   {#if stats.length}

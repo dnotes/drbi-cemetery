@@ -1,27 +1,16 @@
 <script lang="ts" context="module">
-  import { base } from '$app/paths'
-  export async function load({ fetch }) {
-    const sites = await fetch(`${base}/sites.json`).then(r => r.json())
-    return {
-      props: { sites }
-    }
-  }
+  export const hydrate=false
+  export const router=false
 </script>
 
 <script lang="ts">
-  import type { Gravesite } from "src/global";
-  export let sites:Gravesite[]
+  import SiteList from "$lib/SiteList.svelte";
 </script>
 
-<img class="max-w-md lg:max-w-2xl mx-auto md:ml-8 md:float-right" src="/images/gravesites.jpg" alt="A row of gravesites in the sand, each lined in brick and covered with small desert stones.">
+<img class="mx-auto w-96 md:w-3/5" src="/images/gravesites.jpg" alt="A row of gravesites in the sand, each lined in brick and covered with small desert stones.">
 
-<div class="p:10 max-w-md mx-auto md:mx-0">
+<div class="max-w-3xl mx-auto mt-8">
   <p>The following is a list of souls whose remains have been laid to rest in Desert Rose:</p>
-  <ul>
-    {#each sites as s}
-    <li>
-      <a rel="prefetch" href="{base}/sites/{s.slug}">{s.name}</a>
-    </li>
-    {/each}
-  </ul>
 </div>
+
+<SiteList />

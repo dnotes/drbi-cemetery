@@ -41,6 +41,10 @@ a {
   @apply text-blue-600;
 }
 
+img {
+  @apply max-w-full
+}
+
 .inscription {
   @apply italic whitespace-pre inline-block;
   margin-left: 50%;
