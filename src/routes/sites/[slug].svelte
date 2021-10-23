@@ -20,7 +20,7 @@ import type { Gravesite } from "src/global";
 </script>
 
 <svelte:head>
-  <title>{site.name} | Desert Rose Memorial Garden</title>
+  <title>{site.name} {site.nickname && (`"${site.nickname}"`)} | Desert Rose Memorial Garden</title>
 </svelte:head>
 
 <div class="flex flex-wrap justify-center">
@@ -28,7 +28,13 @@ import type { Gravesite } from "src/global";
   <div class="max-w-full mb-8" style="width:672px;">
     <div class="text-center">
 
-      <h2>{site.name}</h2>
+      <h2>{site.name}
+        {#if site.nickname}
+          <br><span class="font-tulpen" style="font-size:70%;">"{site.nickname}"</span>
+        {/if}
+      </h2>
+
+
 
       {#if site.image}
         <Image image="/sites/{site.image}" alt="{site.name}" class="w-2xl mx-auto" />

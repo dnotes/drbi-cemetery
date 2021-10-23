@@ -1,5 +1,6 @@
 ---
-name: Williams, Bonnie Marie "Mikki"
+name: Williams, Bonnie Marie
+nickname: Mikki
 section: SEQ
 row: 1
 site: 5
