@@ -5,6 +5,7 @@ row: 1
 site: 3
 born: 1936-06-02
 deceased: 2008-04-11
+image: james-elke.jpg
 ---
 
 Blessed is the spot where mention of God hath been made and His praise glorified

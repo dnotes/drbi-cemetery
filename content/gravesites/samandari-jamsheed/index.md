@@ -5,6 +5,7 @@ row: 1
 site: 5
 born: 1927-03-23
 deceased: 2016-02-12
+image: samandari-jamsheed.jpg
 ---
 
 "I have recognized Thy truth in Thy days, \

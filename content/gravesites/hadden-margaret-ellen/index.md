@@ -6,6 +6,7 @@ row: 1
 site: 6
 born: 1953-09-25
 deceased: 2016-02-10
+image: hadden-margaret.jpg
 ---
 
 From the sweet-scented streams of Thine eternity give me to drink, O my God, and of the fruits of the tree of Thy being enable me to taste, O my Hope!  From the crystal springs of Thy love suffer me to quaff, O my Glory, and beneath the shadow of Thine everlasting providence let me abide, O my Light!

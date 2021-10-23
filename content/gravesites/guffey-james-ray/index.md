@@ -6,6 +6,7 @@ row: 1
 site: 15
 born: 1940-08-06
 deceased: 2009-05-15
+image: guffey-james.jpg
 ---
 
 US ARMY {.inscription}

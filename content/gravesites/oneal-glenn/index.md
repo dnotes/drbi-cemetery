@@ -5,6 +5,7 @@ row: 1
 site: 2
 born: 1941-12-08
 deceased: 2019-08-13
+image: oneal-glenn.jpg
 ---
 
 LCPL US MARINE CORPS {.inscripion}

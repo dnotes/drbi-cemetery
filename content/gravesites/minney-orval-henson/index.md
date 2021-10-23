@@ -6,6 +6,7 @@ row: 2
 site: 10
 born: 1925-10-24
 deceased: 2016-03-03
+image: minney-orval.jpg
 ---
 
 ENS US NAVY {.inscription}
@@ -28,4 +29,4 @@ ENS US NAVY {.inscription}
 >
 > The graveside service will be at 10 a.m. Tuesday at Desert Rose Memorial Gardens in Eloy.
 >
-> J. Warren Funeral Services, Cole & Maud The Gardens Chapel is in charge of arrangements. (obituary from [J Warren](https://www.jwarrenfuneral.com/obituaries/Orval-Henson-Minney?obId=19712203#/obituaryInfo))
+> J. Warren Funeral Services, Cole & Maud The Gardens Chapel is in charge of arrangements. (obituary from [J Warren](https://www.jwarrenfuneral.com/obituaries/Orval-Henson-Minney?obId=19712203#/obituaryInfo))image: minney-orval.jpg

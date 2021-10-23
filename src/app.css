@@ -1,0 +1,38 @@
+/* Write your global styles here, in PostCSS syntax */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+p,li,blockquote {
+  font-size: 2vw;
+  @apply lg:text-lg leading-tight;
+}
+
+p,blockquote { @apply my-3 }
+
+li { @apply my-1 }
+
+h1 {
+  font-size: 4vw;
+  @apply font-bold lg:text-5xl;
+}
+
+h2 {
+  font-size: 3vw;
+  @apply font-bold lg:text-3xl my-9;
+}
+
+h3 {
+  font-size: 2.5vw;
+  @apply font-bold lg:text-2xl my-6;
+}
+
+a {
+  @apply text-blue-600;
+}
+
+.inscription {
+  @apply italic whitespace-pre inline-block;
+  margin-left: 50%;
+  transform:translateX(-50%)
+}

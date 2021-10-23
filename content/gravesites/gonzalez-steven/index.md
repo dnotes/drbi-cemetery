@@ -5,6 +5,7 @@ row: 1
 site: 1
 born: 1952-09-17
 deceased: 2019-12-01
+image: gonzalez-steven.jpg
 ---
 
 Steven was a judge, law educator and co-founder of the Baha'i Justice Society. He worked extensively with American Indian justice systems, state policy and conflict resolution. He attended UN forums on indigenous affairs as a Baha'i International Community delegate. He also served the Baha'i Faith as an Auxiliary Board member and on the National Committee on Women. He traveled for the Faith in Latin America. ([Find A Grave](https://www.findagrave.com/memorial/210150054/steven-gonzales))

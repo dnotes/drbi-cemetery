@@ -5,6 +5,7 @@ row: 1
 site: 13
 born: 1945-08-01
 deceased: 2009-10-26
+image: mohajeri-maliheh.jpg
 ---
 
 "ROBE HER IN THE MANTLE OF THY GRACE...

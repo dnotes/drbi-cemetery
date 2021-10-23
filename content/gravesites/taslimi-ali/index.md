@@ -5,5 +5,6 @@ row: 2
 site: 13
 born: '1925'
 deceased: '2016'
+image: taslimi-ali.jpg
 ---
 

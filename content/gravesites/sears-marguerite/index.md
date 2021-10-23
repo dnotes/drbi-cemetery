@@ -5,6 +5,7 @@ row: 1
 site: 1
 born: 1912-11-23
 deceased: 2006-07-17
+image: sears-marguerite.jpg
 ---
 
 Beloved Handmaiden and \

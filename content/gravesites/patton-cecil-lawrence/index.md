@@ -6,5 +6,6 @@ row: 1
 site: 2
 born: 1917-02-26
 deceased: 2006-12-26
+image: patton-c-lawrence.jpg
 ---
 

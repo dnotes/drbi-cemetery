@@ -6,4 +6,5 @@ row: 1
 site: 13
 born: ''
 deceased: '2012'
+image: parsa-tahereh.jpg
 ---

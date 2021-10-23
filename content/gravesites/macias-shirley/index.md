@@ -5,6 +5,7 @@ row: 2
 site: 9
 born: 1929-01-13
 deceased: 2016-03-08
+image: macias-shirley.jpg
 ---
 
 DEVOTED HANDMAIDEN OF BAHÁ'U'LLÁH

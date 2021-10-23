@@ -1,0 +1,58 @@
+Section 	Row 	Grave 	InterName 	InterDate 	PurchDate 	BirthDate 	DeathDate 	Grave Border choice
+NEQ 	1 	8 			2013/03/04
+SWQ 	1 	1
+SEQ 	1 	8 	Aghdasi, Houshang 	2009/02/05 	2009/02/05 	1932/11/22 	2009/02/02
+SEQ 	1 	11 	Atoofi, Afshin 	2021/05/15 	2012/05/14 	1966/06/07 	2012/05/01
+SEQ 	2 	11 	Atoufi, Nader 		2012/11/13
+SEQ 	1 	14 	Behrendt, Thomas Harold 	2009/07/28 		1944/07/04 	2009/07/27
+NEQ 	1 	7 	Bellamy, My-Key 	2015/09/17 	2015/09/14 	1975/01/12 	2015/09/10
+SEQ 	2 	6 	Borhani
+SEQ 	1 	7 	Borhani, Kaivan 	2006/01/01
+SEQ 	2 	7 	Borhani, Rahmatollah 	2015/04/10 	2015/04/06 	1928/04/04 	2015/04/02
+SEQ 	3 	11 	Ebrahimifard, Nayyereh 		2021/03/11 	1945/07/12 		Scalloped
+SEQ 	2 	8 	Evans, Phyllis Terrell 	2016/08/30 	2016/08/30 	1936/11/26 	2016/08/24
+SEQ 	1 	12 	Golombik, Marcia 	2004/06/14 		1936/01/01 	2004/01/01
+SEQ 	2 	14 	Golshan, Feizollah 	2017/02/09 		1923/05/18 	2017/02/06
+NEQ 	1 	1 	Gonzalez, Steven 	2019/12/10 		1952/09/17 	2019/12/01
+SEQ 	1 	15 	Guffy, James Ray 	2009/05/18 	2009/05/15 	1940/08/06 	2009/05/15
+NEQ 	1 	6 	Hadden, Margaret Ellen 	2016/02/16 	2016/02/15 	1953/09/25 	2016/02/10
+SEQ 	2 	12 	Heydarian, Rohollah 	2016/08/20 	2016/08/14 	1925/10/05 	2016/08/13
+SEQ 	3 	12 	Heydarian, Soroor Mehrabkhani 		2021/05/12 	1934/11/05 	2012/05/12 	Scalloped
+SEQ 	1 	3 	James, Elke 	2008/04/13 		1936/06/02 	2008/04/11
+SEQ 	10 	3 	Johnston, Bettie 		2020/03/01
+SEQ 	2 	2 	Lind, Wendy 	2019/10/22 	2019/05/16 	1933/07/28 	2019/10/15 	Scalloped
+SEQ 	2 	9 	Macias, Shirley 	2016/03/12 	2016/03/09 	1929/01/13 	2016/03/08
+SEQ 	2 	4 	Marcus, Audrey Jane 	2018/01/19 	2016/04/29 	1923/01/08 	2018/01/16
+SEQ 	1 	6 	McDowell, Patricia Louise 	2011/10/27 	2011/10/24 	1936/11/17 	2011/10/23
+SEQ 	1 	10 	Minnie, Alyse 	2004/03/20 	2004/03/20 	1919/05/31 	2004/03/19
+SEQ 	2 	10 	Minnie, Orville Henson 	2016/03/08 	2015/04/20 	1925/10/24 	2016/03/03
+NEQ 	1 	10 	Minouie, Houshang Amir 	2013/01/31 	2013/01/31 	1932/03/27 	2013/01/25
+NEQ 	1 	12 	Mohajeri, Hourieh Razzagi 	2010/12/26 	2009/10/27 	1917/11/12 	2010/12/20
+NEQ 	1 	13 	Mohajeri, Maliheh Kimiai-Asadi 	2009/10/31 		1945/08/01 	2009/10/26
+NEQ 	2 	14 	Mortensen, Bradley Roger 	2020/08/27 		1935/11/01 	2020/08/22 	Scalloped
+NEQ 	1 	9 	Navidi, Enayatollah 	2013/03/29 		1919/03/21 	2013/03/16
+NEQ 	1 	2 	O'Neal, Glenn 	2019/08/17 	2019/08/14 	1941/12/08 	2019/08/13
+NEQ 	2 	2 	O'Neal, Mary 	2020/09/30 	2020/09/08 	1951/03/01 	2020/09/24 	Scalloped
+NEQ 	1 	8 	Parker, Barbara 	2014/04/08 	2014/04/07 	1931/08/12 	2014/04/02
+SEQ 	1 	13 	Parsa, Tahirehkhano 	2012/06/16 		1929/06/27 	2012/06/11
+SEQ 	1 	2 	Patton, Cecil Lawrence 	2006/12/28 		1917/02/26 	2006/12/26
+NEQ 	2 	12 	Peace, Edward 	2021/07/17 	2021/07/19 	1945/05/23 	2021/07/13 	Scalloped
+SEQ 	10 	1 	Peralta, Carlotta 		2011/04/15
+SEQ 	2 	3 	Roshan, Farahbakhsh 	2019/08/25 	2019/10/23 	1926/07/06 	2019/08/21
+NEQ 	1 	5 	Samandari, Jamsheed 	2016/02/20 		1927/03/23 	2016/02/12
+NEQ 	1 	4 	Samandari, Parivash 		2013/04/28
+SEARS 	1 	1 	Sears, Marguerite R 	2006/07/26 		1912/11/23 	2006/07/17
+SEQ 	1 	1 	Sedillo, Nancy 	2003/10/09 		1941/03/31 	2003/10/08
+SEQ 	2 	1 	Shaikholeslami, Parvin 	2019/10/31 	2019/10/31
+NEQ 	1 	3 	Sloman, Richard 	2019/05/16 	2019/05/20 	1947/12/07 	2019/05/12
+NEQ 	2 	13 	Smith, Patricia Ann 	2021/06/17 	2021/06/10 	1936/10/22 	2021/06/03 	Scalloped
+SEQ 	2 	13 	Taslimi, Ali 	2016/11/16 		1925/07/23 	2016/11/13
+SEQ 	10 	2 	Terry, Jr, John 		2011/04/15
+SEQ 	1 	4 	Tremblay, Grace Louise 	2015/05/29 	2015/05/27 	1923/10/21 	2015/05/26
+SEQ 	2 	15 	Turner, Robert 		2017/04/06
+NEQ 	1 	11 	Wallace, Mary Eldred 	2011/04/23 	2011/04/13 	1910/07/10 	2011/04/17
+NEQ 	5 	1 	Wiggins, Patricia Lavon Squires Baum Utley 		2021/02/22 	1951/10/08 		Scalloped
+SEQ 	1 	5 	Williams, Bonnie Marie 	2015/10/02 		1948/10/28 	2015/09/28
+SEQ 	2 	5 	Williams, David Paul 	2016/06/15 	2016/06/20 	1948/04/21 	2016/06/05
+SEQ 	10 	4 	Wojtowicz, David Allen 		2008/07/16
+SEQ 	1 	9 	Wyatt, Juliana Cecile 	2008/01/09 		1922/11/26 	2008/01/05

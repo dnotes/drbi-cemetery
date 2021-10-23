@@ -5,6 +5,7 @@ row: 2
 site: 1
 born: 1945-12-22
 deceased: 2019-10-28
+image: shaikholeslami-parvin.jpg
 ---
 
 O SON OF SPIRIT!
