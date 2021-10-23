@@ -25,7 +25,7 @@ import type { Gravesite } from "src/global";
   <h2>{site.name}</h2>
 
   {#if site.image}
-    <Image image="{site.image}" alt="{site.name}" class="max-w-2xl mx-auto" />
+    <Image image="/sites/{site.image}" alt="{site.name}" class="max-w-2xl mx-auto" />
   {/if}
 
   {#if stats.length}
