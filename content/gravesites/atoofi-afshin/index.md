@@ -7,3 +7,6 @@ born: 1966-06-07
 deceased: 2012-05-01
 image: atoofi-afshin.jpg
 ---
+
+Forever In Our Hearts
+{.inscription}

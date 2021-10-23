@@ -13,4 +13,4 @@ gift was love and song. She entertained \
 many with her uplifting music. \
 Devoted Wife, Mother and Bahá’í \
 IN LOVING MEMORY
-{.inscription}image: wyatt-juliana.jpg
+{.inscription}

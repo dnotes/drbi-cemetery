@@ -8,9 +8,9 @@ deceased: 2019-08-13
 image: oneal-glenn.jpg
 ---
 
-LCPL US MARINE CORPS {.inscripion}
+LCPL US MARINE CORPS {.inscription}
 
-LOVING HUSBAND FATHER
+LOVING HUSBAND FATHER \
 POPPOP GREAT-GRANDFATHER {.inscription}
 
 > ELOY — Glenn O’Neal, 77, died peacefully at home after a valiant fight with cancer and kidney failure on Aug. 13, 2019.

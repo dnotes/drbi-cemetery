@@ -7,3 +7,5 @@ born: 1975-01-12
 deceased: 2015-09-10
 image: bellamy-my-key.jpg
 ---
+
+Music Master {.inscription}

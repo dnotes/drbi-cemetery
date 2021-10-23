@@ -8,6 +8,7 @@ deceased: 2003-08-08
 image: sedillo-nancy.jpg
 ---
 
-Forever Celebrated
+Forever Celebrated \
 Forever Loved
+{.inscription}
 

@@ -16,12 +16,14 @@ As ye have faith, so shall your \
 powers and blessings be...
 {.inscription}
 
-"...more than six decades of \
-outstanding, tireless endeavor \
-in promotion of the Cause of \
-God...impelled by a flame of \
-faith that warmed countless \
-hearts..." \
-The Universal House of Justice
-{.inscription}
+> "...more than six decades of
+> outstanding, tireless endeavor
+> in promotion of the Cause of
+> God...impelled by a flame of
+> faith that warmed countless
+> hearts..." {.text-left}
+>
+> The Universal House of Justice {.text-right}
+>
+> {.inscription}
 

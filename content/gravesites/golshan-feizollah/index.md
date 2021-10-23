@@ -9,6 +9,8 @@ image: golshan-feizollah.jpg
 ---
 
 Glorified be Thy Name, O Lord my God!
+{.inscription}
+
 You Will Always Be In Our Hearts
 {.inscription}
 

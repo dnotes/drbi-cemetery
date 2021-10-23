@@ -11,8 +11,8 @@ image: james-elke.jpg
 Blessed is the spot where mention of God hath been made and His praise glorified
 {.inscription}
 
-To Our Mother,
-Grandmother and Friend
+To Our Mother, \
+Grandmother and Friend \
 We Love You
-{.inscription}
+{.inscription .text-center}
 

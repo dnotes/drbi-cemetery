@@ -8,6 +8,7 @@ deceased: 2016-08-13
 image: heydarian-rohollah.jpg
 ---
 
-Whither can a lover go but to the land of his beloved
-{.inscription}
+WHITHER CAN A LOVER GO BUT \
+TO THE LAND OF HIS BELOVED
+{.inscription .text-center}
 

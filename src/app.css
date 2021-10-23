@@ -46,7 +46,5 @@ img {
 }
 
 .inscription {
-  @apply italic whitespace-pre inline-block;
-  margin-left: 50%;
-  transform:translateX(-50%)
+  @apply italic text-center mx-6 sm:mx-12;
 }

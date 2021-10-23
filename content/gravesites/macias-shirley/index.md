@@ -8,9 +8,9 @@ deceased: 2016-03-08
 image: macias-shirley.jpg
 ---
 
-DEVOTED HANDMAIDEN OF BAHÁ'U'LLÁH
-HER GLORIOUS SERVICES IMPERISHABLE.
-{.inscription}
+
+DEVOTED HANDMAIDEN OF BAHÁ'U'LLÁH \
+HER GLORIOUS SERVICES IMPERISHABLE. {.inscription}
 
 > ELOY - Shirley Macias, 87, died peacefully at home, surrounded by friends, in Eloy on March 8, 2016, of lung cancer.
 >
