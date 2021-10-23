@@ -1,5 +1,6 @@
 <script>
   import "../app.css";
+  import { base } from '$app/paths'
   import { page } from '$app/stores'
   let isFront = $page.path === '/'
 </script>
@@ -10,8 +11,8 @@
   <div class="ctr flex">
     <h1 class="inline-block">Desert Rose Memorial Garden</h1>
     <div class="flex-grow"></div>
-    <a href="/" class="menulink">Home</a>
-    <a href="/sites" class="menulink">Memorials</a>
+    <a href="{base}/" class="menulink">Home</a>
+    <a href="{base}/sites" class="menulink">Memorials</a>
   </div>
 </header>
 

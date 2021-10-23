@@ -1,4 +1,5 @@
 <script context="module">
+  import { base } from '$app/paths'
   export const hydrate=false
   export const router=false
 </script>
@@ -29,7 +30,7 @@
 
   <div class="triptych">
     <h3>Find a site</h3>
-    <a class="inline-block" href="/sites">
+    <a class="inline-block" href="{base}/sites">
       <img class="max-w-full w-80" src="/images/gatepost-alai-drive.jpg" alt="A view along the iron fence, through the gravesites are visible.">
       <div>Find a gravesite in the Memorial Garden</div>
     </a>

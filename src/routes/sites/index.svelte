@@ -1,6 +1,7 @@
 <script lang="ts" context="module">
+  import { base } from '$app/paths'
   export async function load({ fetch }) {
-    const sites = await fetch('/sites.json').then(r => r.json())
+    const sites = await fetch(`${base}/sites.json`).then(r => r.json())
     return {
       props: { sites }
     }
@@ -19,7 +20,7 @@
   <ul>
     {#each sites as s}
     <li>
-      <a rel="prefetch" href="/sites/{s.slug}">{s.name}</a>
+      <a rel="prefetch" href="{base}/sites/{s.slug}">{s.name}</a>
     </li>
     {/each}
   </ul>

@@ -1,6 +1,7 @@
 <script lang="ts" context="module">
+  import { base } from '$app/paths'
   export async function load({ fetch, page }) {
-    const sites = await fetch('/sites.json').then(r => r.json())
+    const sites = await fetch(`${base}/sites.json`).then(r => r.json())
     const site = sites.find(s => s.slug === page.params.slug)
     return {
       props: { site }
