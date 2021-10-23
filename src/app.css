@@ -1,30 +1,40 @@
 /* Write your global styles here, in PostCSS syntax */
+@import url('https://fonts.googleapis.com/css2?family=Bellefair&family=Explora&family=Tulpen+One&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-p,li,blockquote {
-  font-size: 2vw;
-  @apply lg:text-lg leading-tight;
+* {
+  @apply text-gray-800 font-normal
 }
 
-p,blockquote { @apply my-3 }
+p,li,blockquote,td {
+  @apply text-base leading-tight md:text-lg
+}
 
-li { @apply my-1 }
+p,blockquote {
+  @apply my-3
+}
+
+li {
+  @apply my-1
+}
+
+h1,h2,h3 {
+  @apply font-tulpen text-black leading-tight
+}
 
 h1 {
-  font-size: 4vw;
-  @apply font-bold lg:text-5xl;
+  @apply text-7vw lg:text-7xl caps-small leading-none;
 }
 
 h2 {
-  font-size: 3vw;
-  @apply font-bold lg:text-3xl my-9;
+  @apply text-4xl md:text-5vw lg:text-5xl my-9;
 }
 
 h3 {
-  font-size: 2.5vw;
-  @apply font-bold lg:text-2xl my-6;
+  @apply text-3xl md:text-4vw lg:text-4xl my-6;
 }
 
 a {

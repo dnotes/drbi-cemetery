@@ -6,10 +6,10 @@
 
 <div class="mb-6 border-gray-500 border-2 relative">
   <img src="/images/gates-alai-drive.jpg" alt="The stucco walls and iron gates of the Memorial Garden stand sentinel under a clear blue sky." width="100%" />
-  <div class="absolute top-1/4 w-full flex justify-center">
-    <div class="leading-tight text-blue-200">
-      <p>
-        <span class="leading-loose">O SON OF SPIRIT!<br></span>
+  <div class="absolute top-1/4 w-full flex justify-center -translate-y-5">
+    <div>
+      <p class="leading-none text-blue-200 font-script text-4vw lg:text-4xl">
+        <span class="leading-loose text-blue-200">O SON OF SPIRIT!<br></span>
         With the joyful tidings of light I hail thee: rejoice!<br/>
         To the court of holiness I summon thee; abide therein<br/>
         that thou mayest live in peace forevermore.
@@ -29,7 +29,7 @@
 <div class="flex flex-wrap justify-center -mx-2 overflow-hidden lg:-mx-4">
 
   <div class="triptych">
-    <h3>Find a site</h3>
+    <h3>Find a Site</h3>
     <a class="inline-block" href="{base}/sites">
       <img class="max-w-full w-80" src="/images/gatepost-alai-drive.jpg" alt="A view along the iron fence, through the gravesites are visible.">
       <div>Find a gravesite in the Memorial Garden</div>
@@ -75,7 +75,7 @@
   :global(.front #screen>.ctr) {
     padding: 0;
   }
-  :global(.front #header h1) {
+  :global(.front #header h1, .front #header a) {
     color: white;
   }
   .triptych {

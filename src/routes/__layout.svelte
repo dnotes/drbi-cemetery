@@ -11,8 +11,10 @@
   <div class="ctr flex">
     <h1 class="inline-block">Desert Rose Memorial Garden</h1>
     <div class="flex-grow"></div>
-    <a href="{base}/" class="menulink">Home</a>
-    <a href="{base}/sites" class="menulink">Memorials</a>
+    <div>
+      <a href="{base}/" class="menulink">Home</a>
+      <a href="{base}/sites" class="menulink">Memorials</a>
+    </div>
   </div>
 </header>
 
@@ -34,5 +36,5 @@
 
 <style lang="postcss">
   .ctr { @apply max-w-screen-xl mx-auto p-4 }
-  .menulink { @apply inline-block px-2 py-1 text-blue-800 hover:underline }
+  .menulink { @apply inline-block px-2 py-1 text-blue-800 hover:underline font-tulpen text-2xl md:text-3xl leading-none }
 </style>
