@@ -5,7 +5,7 @@
   let isFront = $page.path === '/'
 </script>
 
-<div id="screen" class="flex flex-col min-h-screen {isFront ? 'front' : 'not-front'}">
+<div id="screen" class="flex flex-col min-h-screen overflow-x-hidden {isFront ? 'front' : 'not-front'}">
 
 <header id="header" class="lg:sticky w-full relative z-10">
   <div class="ctr flex">
