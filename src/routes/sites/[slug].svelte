@@ -17,10 +17,11 @@ import SiteList from "$lib/SiteList.svelte";
 import type { Gravesite } from "src/global";
   export let site:Gravesite
   let stats = [site?.born && (`b. ${site.born}`), site?.deceased && (`d. ${site.deceased}`)].filter(Boolean)
+  let fullname = site.name.replace(/^([^,]+), *([^,]+)/, `$2 ${site.nickname ? `"${site.nickname}" ` : ''}$1`)
 </script>
 
 <svelte:head>
-  <title>{site.name} {site.nickname && (`"${site.nickname}"`)} | Desert Rose Memorial Garden</title>
+  <title>{fullname} | Desert Rose Memorial Garden</title>
 </svelte:head>
 
 <div class="flex flex-wrap justify-center">
@@ -28,13 +29,7 @@ import type { Gravesite } from "src/global";
   <div class="max-w-full mb-8" style="width:672px;">
     <div class="text-center">
 
-      <h2>{site.name}
-        {#if site.nickname}
-          <br><span class="font-tulpen" style="font-size:70%;">"{site.nickname}"</span>
-        {/if}
-      </h2>
-
-
+      <h2>{fullname}</h2>
 
       {#if site.image}
         <Image image="/sites/{site.image}" alt="{site.name}" class="w-2xl mx-auto" />
@@ -59,7 +54,7 @@ import type { Gravesite } from "src/global";
   </div>
 
   <div class="lg:w-64 lg:text-right lg:ml-8">
-    <SiteList />
+    <SiteList current={site.slug} />
   </div>
 
 </div>
