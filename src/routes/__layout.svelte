@@ -24,9 +24,9 @@
   </div>
 </div>
 
-<footer id="footer" class="flex justify-center text-sm text-white bg-gray-600">
+<footer id="footer" class="flex justify-center text-sm bg-gray-600">
   <div class="ctr flex">
-    <div class="text-xs md:text-sm inline-block leading-none">
+    <div class="text-xs md:text-sm inline-block leading-none text-blue-200">
       © 2021 Desert Rose Bahá’í Institute &middot; 6056 S. Alai Drive, Eloy, Az 85131
     </div>
   </div>
