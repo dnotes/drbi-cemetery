@@ -1,4 +1,15 @@
-# create-svelte
+# DRBI-CEMETERY PROOF OF CONCEPT
+
+What if a cemetery was treated as a living, interactive memorial?
+
+## https://drbi-cemetery.dnotes.net/sites/
+
+
+
+
+---------
+
+## create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);
 
